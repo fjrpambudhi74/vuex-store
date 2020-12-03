@@ -1,6 +1,18 @@
-# vuex-store
+# :fire: Vuetify Calendar With Firebase
+> Hello! Thanks for checking out the repo for my latest portfolio website. This website isn't just my new portfolio, but also a personal project in and of itself.
 
-## Project setup
+## :mag: Overview
+Vuex store is demo ecommerce store using Fake Rest API with JSON-Server and Axios for HTTP Call, and for UI using Vuetify.
+
+## :rocket: Built with
+* Vue JS
+* Vuex
+* Vue Router
+* Vuetify
+* JSON-Server
+* Axios
+
+## :hammer_and_wrench: Project setup
 ```
 npm install
 ```
