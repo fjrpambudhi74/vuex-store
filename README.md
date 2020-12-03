@@ -1,4 +1,4 @@
-# :fire: Vuetify Calendar With Firebase
+# :fire: Vuex Store
 > Hello! Thanks for checking out the repo for my latest portfolio website. This website isn't just my new portfolio, but also a personal project in and of itself.
 
 ## :mag: Overview
